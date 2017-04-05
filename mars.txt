@@ -1,5 +1,12 @@
 everything color
 two moons may be a problem
 lack of humidity
+change i'm done
+
+
 Roy edited this line
+<<<<<<< HEAD
 Roy made these changes on the cloned copy on his harddrive 12:30 pm
+=======
+
+>>>>>>> 3dfb5ad58db9cd3babcc7772d7277881939ba646
